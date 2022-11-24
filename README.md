@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juanchobarroso-mymoid
+- 👋 Hi, I’m Juancho Barroso
 - 👀 I’m interested in create nice client apps to help you to manage your payments!!
 - 🌱 I’m currently learning react things and CLEAN architecture on client apps
 - 🤫 Fun fact: I'm a huge fan of @Matt D'Avella
